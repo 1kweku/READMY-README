@@ -1,37 +1,35 @@
-# test
+# README
 
   ## Table of Contents
-  test
+  Description
+  Installation
+  Usage
+  Instructions
+  Contributing
+  Questions
+  Contact
+  License
 
   ## Description 
-  Provide a short description explaining the why you built your project, what problem it solves and what you learned from building your project.
-  - test
-  - test
-  - test
+  This application was made to make generating a READme a near effortless process by using inquirer to prompt questions and using the responses to generate a read me.
 
   ## Installation
-  What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-  test
+  To install this application, simply make a clone from the repository. More details on usage found in "usage" section.
 
   ## Usage
-  test
+  In order to use this application, inquirer must be installed. This can be done by using npm init to create a package.json and then npm install inquirer to download inquirer.
 
   ## Test
-  Test instructions
-  test
+  
 
   ## Contributing
-  How to contribute 
-  test
+  To contribute to this project, clone the repository and make all pushes to a dev branch.
 
   ## Questions
-  Please enter any questions you have regarding this project
-  test
+ 
 
   ## Contact 
-  Please provide your GitHub link as well as an email.
-  -test
-  -test
+  kwekuplusp@gmail.com
 
   ## License
   Apache
