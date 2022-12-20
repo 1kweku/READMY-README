@@ -34,4 +34,4 @@
   -test
 
   ## License
-  MIT
+  Apache
